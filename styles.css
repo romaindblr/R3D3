@@ -117,7 +117,7 @@ h1.big_title{
 }
 
 .item6{
-    background-image: url("images/producte2.jpg");
+    background-image: url("producte2.jpg");
     background-size: cover;
     background-position:center;
 }
@@ -144,5 +144,3 @@ h1.big_title{
     font-size: 14px;
     font-weight: 800;
 }
-
-/* sur mesure */
