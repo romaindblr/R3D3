@@ -11,6 +11,10 @@ header.header{
     position: fixed ;
 }
 
+#navbar{
+    background-color: ref;
+}
+
 .top-page {
     background: url('header.jpg');
     background-size: cover;
