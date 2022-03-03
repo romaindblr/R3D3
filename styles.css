@@ -9,6 +9,7 @@ header.header{
     position: relative;
     display: flex;
     align-items: center;
+    position: fixed ;
 }
 
 .top-page {
@@ -34,7 +35,6 @@ nav.nav {
     list-style: none;
     width: 500px;
     margin-left: 50px;
-    position: fixed;
     
 }
 
