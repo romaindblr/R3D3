@@ -6,7 +6,6 @@ body{
 /* tete de page */
 
 header.header{
-    position: relative;
     display: flex;
     align-items: center;
     position: fixed ;
