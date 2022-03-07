@@ -99,35 +99,35 @@ h1.big_title{
 }
 
 .item1{
-    background-image: url("plioir10.jpg");
+    background-image: url("lioir10.jpg");
     background-size: cover;
     background-position:center;
 }
 .item2{
-    background-image: url("plioir5.jpg");
+    background-image: url("lioir5.jpg");
     background-size: cover;
     background-position:center;
 }
 .item3{
-    background-image: url("rouge.jpg");
+    background-image: url("ouge.jpg");
     background-size: cover;
     background-position:center;
 }
 
 .item4{
-    background-image: url("orange\ \(7\).jpg");
+    background-image: url("range\ \(7\).jpg");
     background-size: cover;
     background-position:center;
 }
 
 .item5{
-    background-image: url("producte.jpg");
+    background-image: url("roducte.jpg");
     background-size: cover;
     background-position:center;
 }
 
 .item6{
-    background-image: url("producte2.jpg");
+    background-image: url("roducte2.jpg");
     background-size: cover;
     background-position:center;
 }
