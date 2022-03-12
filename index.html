@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <link rel="icon" type="image/png" sizes="16x16" href="bras_robot.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="logo/bras_robot.png">
     <link rel="stylesheet" href="styles.css">
     <script src="script.js"></script>
     <title>R3D3</title>
@@ -11,15 +11,15 @@
 
 <body>
 
-        <header class="header" id="navbar">
-            <h2 class="logo">R3D3</h2>
-            <nav class="nav">
-                <li><a href="index.html">Accueil</a></li>
-                <li><a href="index.html#boutique">Boutique</a></li>
-                <li><a href="index.html#sur_mesure">Sur Mesure</a></li>
-                <li><a href="index.html#a_propos">A Propos</a></li>
-            </nav>
-        </header>
+    <header class="header" id="navbar">
+        <h2 class="logo">R3D3</h2>
+        <nav class="nav">
+            <li><a class="button" href="index.html">Accueil</a></li>
+            <li><a class="button" href="index.html#boutique">Boutique</a></li>
+            <li><a class="button" href="index.html#sur_mesure">Sur Mesure</a></li>
+            <li><a class="button" href="index.html#a_propos">A Propos</a></li>
+        </nav>
+    </header>
     <section class="top-page">
         <h1 class="big_title">This is the futur for all</h1>
     </section>
@@ -65,6 +65,18 @@
             </a>
         </div>
 
+    </section>
+
+    <section class="sur_mesure" id="sur_mesure">
+        <h2 class="section_title">Sur Mesure</h2>
+        <h1>Envoie votre demande</h1>
+        <form method="post" action="mail.php">
+            <label>votre email</label>
+            <input type="email" name="email" required><br>
+            <label>Tape ton message ici pour m'écrire</label>
+            <textarea name="message" id="message" required></textarea><br>
+            <input type="submit"> 
+        </form>
     </section>
 
 </body>
