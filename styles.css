@@ -23,7 +23,7 @@ header.header{
 
 
 .top-page {
-    background: url('images/header.jpg');
+    background: url('header.jpg');
     background-size: cover;
     background-position:center;
     height: 90vh;
@@ -108,35 +108,35 @@ h1.big_title{
 }
 
 .item1{
-    background-image: url("images/plioir10.jpg");
+    background-image: url("plioir10.jpg");
     background-size: cover;
     background-position:center;
 }
 .item2{
-    background-image: url("images/plioir5.jpg");
+    background-image: url("plioir5.jpg");
     background-size: cover;
     background-position:center;
 }
 .item3{
-    background-image: url("images/rouge.jpg");
+    background-image: url("rouge.jpg");
     background-size: cover;
     background-position:center;
 }
 
 .item4{
-    background-image: url("images/orange\ \(7\).jpg");
+    background-image: url("orange\ \(7\).jpg");
     background-size: cover;
     background-position:center;
 }
 
 .item5{
-    background-image: url("images/producte.jpg");
+    background-image: url("producte.jpg");
     background-size: cover;
     background-position:center;
 }
 
 .item6{
-    background-image: url("images/producte2.jpg");
+    background-image: url("producte2.jpg");
     background-size: cover;
     background-position:center;
 }
